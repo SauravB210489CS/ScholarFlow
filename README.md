@@ -19,6 +19,33 @@ ScholarFlow solves this problem by creating one central platform where:
 
 ---
 
+## Project Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Signup Page
+
+![Signup](screenshots/signup.png)
+
+### Signin Page
+
+![Signin](screenshots/signin.png)
+
+### Participant Dashboard
+
+![Participant Dashboard](screenshots/participant-dashboard-review.png)
+
+### Submit Research Paper
+
+![Submit Paper](screenshots/submit_research_paper.png)
+
+### Admin Dashboard & Review
+
+![Admin Dashboard](screenshots/admin%20dashboard%20and%20review.png)
+
+
 ## Features
 
 ### Authentication System
