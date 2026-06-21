@@ -207,7 +207,7 @@ Main tables:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/SauravB210489CS/ScholarFlow.git
+git clone https://github.com/build-with-saurav/ScholarFlow.git
 cd ScholarFlow
 ```
 
